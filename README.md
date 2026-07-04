@@ -2,7 +2,7 @@
 
 A 3D fantasy castle-kingdom builder. Raise a kingdom, grow your population — and hold the walls when the raiders come.
 
-**Play:** https://castellan.vercel.app (single file, no build step)
+**Play:** https://castellan-game.vercel.app (single file, no build step)
 
 ## Phase 1 (current)
 
